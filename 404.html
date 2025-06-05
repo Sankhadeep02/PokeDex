@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; URL='/PokeDex/'" />
+    <meta charset="UTF-8" />
+    <script>
+      // Redirect all 404s to the index.html (needed for React Router)
+      sessionStorage.redirect = location.href;
+      location.replace('/PokeDex/');
+    </script>
   </head>
   <body></body>
 </html>
