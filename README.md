@@ -5,11 +5,9 @@ It fetches real-time data from the [PokéAPI](https://pokeapi.co/) and allows us
 
 ---
 
-## 📸 Demo
+## 🚀 Live Demo
 
-![App Screenshot](./path-to-screenshot.png)
-
-> Replace `path-to-screenshot.png` with the actual screenshot path or GitHub image URL.
+👉 [Check it out here!](https://sankhadeep02.github.io/PokeDex/)
 
 ---
 
