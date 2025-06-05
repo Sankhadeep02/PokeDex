@@ -34,8 +34,8 @@ It fetches real-time data from the [PokéAPI](https://pokeapi.co/) and allows us
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/PokeDex-React.git
-cd PokeDex-React
+git clone https://github.com/Sankhadeep02/PokeDex.git
+cd PokeDex
 npm install
 ```
 
